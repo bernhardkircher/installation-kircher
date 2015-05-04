@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Installation Kircher Ernst GmbH</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/business-casual.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div class="brand"><a href="index.html" title="Startseite"><img src="img/favicon.png" alt="Logo Installationen Kircher Ernst GmbH" height="65"  style="margin-top:-20px; padding-right: 10px;"></img></a>Installationen Kircher Ernst GmbH</div>
+    <div class="address-bar">Leipziger Platz 2 | 6020 Innsbruck | +43 (0)512 39 08 08 | <a href="mailto:office@installation-kircher.at">office@installation-kircher.at</a></div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Navigation umschalten</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+                <a class="navbar-brand" href="index.html">Installation Kircher Ernst</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">     
+                    <li>
+                        <a href="index.html">Start</a>
+                    </li>                
+                    <li>
+                        <a href="index.html#beratung">Beratung</a>
+                    </li>
+                     <li>
+                        <a href="index.html#planung">Planung</a>
+                    </li> 
+                    <li>
+                        <a href="index.html#durchfuehrung">Durchführung</a>
+                    </li>  
+                    <li>
+                        <a href="index.html#partner">Partner</a>
+                    </li>                    
+                    <li>
+                        <a href="unternehmen.html">Unternehmen</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Kontakt</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12 text-center">
+                                    
+                    <h2 class="brand-before">
+                        <small>Willkommen bei</small>
+                    </h2>
+                                       
+                    <h1 class="brand-name"><img src="img/logo.gif" alt="Logo Installationen Kircher Ernst GmbH" title="Installationen Kircher Ernst GmbH"></img><!-- Installationen Kircher Ernst GmbH--></h1>
+                    
+                    <hr class="tagline-divider">
+                    <h2>
+                        <small>
+                          Spezialisiert auf <strong>Altbausanierung, Bad-Design, Sanitäre, Heizung und Alternativ-Energie.</strong>
+                        </small>
+                    </h2>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <a name="beratung"></a>
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Persönliche <strong>Beratung</strong>
+                    </h2>
+                    <hr>
+                    <img class="img-responsive img-border img-left" src="img/beratung.jpg" alt="">
+                    <hr class="visible-xs">
+                    <p>Ob ein neues Bad, Altbausanierung, Hausbau oder eine dringende Reparatur,... wir sind stehts um eine persönliche Beratung bemüht. </p>
+                    <p>Oder Sie sind auf der Suche nach der optimalen Lösung für Ihre neue Heizungsanlage - ob Öl, Gas, Solar oder Biomasse - wir sind Ihr kompetenter Partner in der Realisierung Ihrer Wünsche.</p>                    
+                    <p>Da kein Projekt dem anderen gleicht, legen wir sehr großen Wert darauf, Ihnen die angebotene Umsetzung in einem ausführlichen Gespräch zu erläutern.</p>                    
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <a name="planung"></a>
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>Individuelle</strong> Planung
+                    </h2>
+                    <hr>
+                    <p>Sie haben eigene Ideen und Vorstellungen, wissen aber nicht um deren Umsetzbarkeit, oder möchten Sie erst sehen, wie ihr neues Bad aussehen soll, bevor Sie eine Entscheidung treffen?</p>
+                    <p>Gerne Planen wir Ihr Traumbad oder WC mit fotorealistischer Darstellung, damit Sie auch sehen, wie eine mögliche Umsetzung aussehen könnte.</p>
+                    <p>Es ist uns dabei ein Anliegen, Ihre Vorstellungen bestmöglich zu erfüllen und auf Ihre individuellen Bedürfnisse und Anforderungen einzugehen.</p>
+                    <div id="carousel-planung" class="carousel slide">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators hidden-xs">
+                            <li data-target="#carousel-planung" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-planung" data-slide-to="1"></li>
+                            <li data-target="#carousel-planung" data-slide-to="2"></li>
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          
+                            <div class="item active">
+                                <img class="img-responsive img-full" src="img/plaene/1.png" alt="">
+                            </div>
+                            <div class="item">
+                                <img class="img-responsive img-full" src="img/plaene/2.jpeg" alt="Individuelle Planung und Design">
+                            </div>                           
+                            <div class="item">
+                                <img class="img-responsive img-full" src="img/plaene/3.jpeg" alt="">                             
+                            </div>
+                        </div>
+
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#carousel-planung" data-slide="prev">
+                            <span class="icon-prev"></span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel-planung" data-slide="next">
+                            <span class="icon-next"></span>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <a name="durchfuehrung"></a>
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center"><strong>Durchführung </strong> und <strong>Koordination</strong>
+                    </h2>
+                    <hr>
+                    <img class="img-responsive img-border img-left" src="img/durchfuehrung2.jpg" alt="">
+                    <hr class="visible-xs">
+                    <p>
+                    Wir als Fachbetrieb planen nicht nur und führen die Installationsarbeiten fachkundig durch, wir übernehmen nach Wunsch auch gerne die Organisation der erforderlichen Handwerker, die bei der Realisierung Ihres Projektes notwendig sind - wie zum Beispiel Fliesenleger, Elektriker, Baumeister, Tischler oder Maler.</p>	     
+                    </div>
+            </div>
+        </div>
+        
+        
+        
+        <div class="row">
+            <a name="partner"></a>
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Starke <strong>Partner</strong>
+                    </h2>
+                    <hr>
+                    <p>Unsere verlässlichen Partner, mit denen wir seit Jahren gerne zusammenarbeiten, sind:</p>
+                    
+                       <!-- partner -->
+            <div class="container partner">
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <p>
+                    <hr>
+                    <a href="http://www.baumeister-tirol.at/" title="Baumeister Gerhard Bucher GmbH">       
+                        Baumeister Gerhard Bucher GmbH
+                    </a>  
+                    <br>
+                    6403 Flaurling<br>
+                    E-Mail: <a href="mailto:office@bm-bucher.at">office@bm-bucher.at</a><br>
+                    Tel.: +43 (0)5262 / 67775
+                    </p>
+                </div>
+                
+                <div class="col-md-6">
+                    <p>
+                    <hr>
+                    <a href="http://www.lueth.at/" title="Tischlerei Lüth">       
+                        Tischlerei Lüth
+                    </a>  
+                    <br>
+                    6170 Zirl<br>
+                    E-Mail: <a href="mailto:tischlerei@lueth.at">tischlerei@lueth.at</a><br>
+                    Tel.: +43 (0)5238 / 52698
+                    </p>                    
+                </div>
+            </div>
+            
+            
+            <div class="row">
+            
+                <div class="col-md-6">
+                    <p>
+                    <hr>
+                    <a href="http://www.herold.at/gelbe-seiten/pettnau/VXWsv/m%C3%A4rz-peter/" title="Malermeister Peter März">       
+                        Malermeister Peter März
+                    </a>  
+                    <br>
+                    6408 Pettnau<br>
+                    E-Mail: <a href="mailto:malermaerz@gmx.at">malermaerz@gmx.at</a><br>
+                    Tel.: +43 (0)5238 / 84122
+                    </p>
+                        
+                </div>
+                
+                <div class="col-md-6">
+                    <p>
+                    <hr>
+                    <a href="http://www.herold.at/gelbe-seiten/innsbruck/JKRFv/klaus-berchtold-platten--u-fliesenlegermeister/" title="Klaus Berchtold Platten- und Fliesenlegermeister">       
+                        Klaus Berchtold Platten- und Fliesenlegermeister
+                    </a>  
+                    <br>
+                    6020 Innsbruck<br>
+                    E-Mail: <a href="mailto:fliesen.berchtold@gmx.at">fliesen.berchtold@gmx.at</a><br>
+                    Tel.: +43 (0)512 / 273824
+                    </p>                    
+                </div>
+            </div> 
+            
+            <div class="row">  
+                
+                <div class="col-md-6">
+                    
+                    <p>
+                    <hr>
+                    <a href="http://www.elektrokreiser.at/" title="Elektro Kreiser">       
+                        Elektro Kreiser
+                    </a>  
+                    <br>
+                    6170 Zirl<br>
+                    E-Mail: <a href="mailto:office@elektrokreiser.at">office@elektrokreiser.at</a><br>
+                    Tel.: +43 (0)5238 / 52458
+                    </p>
+                </div>
+                
+                <div class="col-md-6">
+                    <p>
+                    <hr>
+                    <a href="http://www.spengler-tirol.at/" title="Spenglerei Hangl Christof GmbH">       
+                        Spenglerei Hangl Christof GmbH
+                    </a>  
+                    <br>
+                    6410 Telfs<br>
+                    E-Mail: <a href="mailto:info@spengler-tirol.at">info@spengler-tirol.at</a><br>
+                    Tel.: +43 (0)650 / 5969580
+                    </p>                    
+                </div>
+            </div>
+            
+            
+            
+             <div class="row">     
+                <div class="col-md-6">
+                    <p>
+                    
+                    <hr>
+                    <a href="https://firmen.wko.at/Web/DetailsKontakt.aspx?FirmaID=28352e91-7125-4136-80fe-bd077b94cb5e&AspxAutoDetectCookieSupport=1" title="Platten- und Fliesenleger Robert Salvador">       
+                        Platten- und Fliesenleger Robert Salvador
+                    </a>  
+                    <br>
+                    6094 Axams<br>
+                    </p>
+                    
+                </div>
+                
+                <div class="col-md-6">
+                        
+                    <p>
+                    
+                    <hr>
+                    <a href="http://www.abfluss-reinigungs-service.at/" title="Abfluss Reinigungs Service Staggl GmbH">       
+                        Abfluss Reinigungs Service Staggl GmbH
+                    </a>  
+                    <br>
+                    6020 Innsbruck<br>
+                    E-Mail: <a href="mailto:info@sanierung-staggl.at">info@sanierung-staggl.at</a><br>
+                    Tel.: +43 (0)512 / 277440
+                    </p>                          
+                </div>  
+                
+            </div>    
+         </div>            
+            <!-- partner end -->
+                    
+                </div>
+            </div>
+        </div>
+        
+        
+              
+        
+
+        <!--<div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Beautiful boxes
+                        <strong>to showcase your content</strong>
+                    </h2>
+                    <hr>
+                    <p>Use as many boxes as you like, and put anything you want in them! They are great for just about anything, the sky's the limit!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                </div>
+            </div>
+        </div>-->
+
+    </div>
+    
+    
+    
+    <!-- /.container -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p><a target="_blank" href="http://www.installateure.at" title="1a Installateur"><img title="1a Installateur" alt="1a Installateur" src="img/1a_logo.jpg"></img></a> &copy; Kircher Ernst GmbH | <a href="contakt.html">Kontakt</a> | <a href="https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=47eb4bff-3da0-441b-b89d-6477c2e3ad57" title="Impressum - externer Link zur WKO" target="_blank" >Impressum</a></p>                    
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>
