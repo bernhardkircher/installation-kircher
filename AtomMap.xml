@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>installation-kircher.at</title>
+  <link href="http://installation-kircher.at" />
+  <id>http://installation-kircher.at</id>
+  <author>
+    <name>installation-kircher.at</name>
+  </author>
+  <updated>2015-07-25T11:25:25Z</updated>
+  <entry>
+    <id>http://installation-kircher.at/kontakt.html</id>
+    <title>Kontaktinformationen - Bad-Design, Heizung, Installation Kircher Ernst GmbH</title>
+    <link href="http://installation-kircher.at/kontakt.html" />
+    <summary />
+    <updated>2015-07-25T10:49:35Z</updated>
+  </entry>
+  <entry>
+    <id>http://installation-kircher.at/unternehmen.html</id>
+    <title>Unternehmen - Bad-Design, Heizung, Installation Kircher Ernst GmbH</title>
+    <link href="http://installation-kircher.at/unternehmen.html" />
+    <summary />
+    <updated>2015-07-25T10:49:29Z</updated>
+  </entry>
+  <entry>
+    <id>http://installation-kircher.at/index.html</id>
+    <title>Bad-Design, Heizung, Installation Kircher Ernst GmbH</title>
+    <link href="http://installation-kircher.at/index.html" />
+    <summary>Die Firma Kircher ist spezialisiert auf Altbausanierung, Bad-Design, Sanitäre, Heizung und Alternativ-Energie</summary>
+    <updated>2015-07-25T10:49:19Z</updated>
+  </entry>
+</feed>
