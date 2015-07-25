@@ -213,5 +213,10 @@ footer p {
 
 /* partner links */
 .partner a {
-
+    font-weight: bold;
 }
+
+.partner div.col-md-6 p {
+    border-top: 1px solid #999999;    
+}
+

@@ -3,6 +3,13 @@
 
 <head>
 
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="de">
+    <title>Kontaktinformationen - Bad-Design, Heizung, Installation Kircher Ernst GmbH</title>
+    <meta name="keywords" content="Bad, Sanierung, Heizung, Sanitäre, Duschen, Badewannen, Ölheizung, Gasheizung, Solarsysteme, Sonnenenergie, Heizkessel, Biomasse, Wellnes, Dampfdusche, Dampfbad, Kleinbad, Fachmann, Tirol, Innsbruck, Austria">
+    <meta name="description" content="Kontaktinformationen zu Firma Kircher Ernst GmbH - spezialisiert auf Altbausanierung, Bad-Design, Sanitäre, Heizung und Alternativ-Energie">
+    <meta name="robots" content="index, follow">
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -75,7 +82,7 @@
                         <a href="unternehmen.html">Unternehmen</a>
                     </li>
                     <li>
-                        <a href="contact.html">Kontakt</a>
+                        <a href="kontakt.html">Kontakt</a>
                     </li>
                 </ul>
             </div>
@@ -101,17 +108,17 @@
 
                 </div>
                 <div class="col-md-4">
-                    <p>Telefonnummer.:
+                    <p>Telefonnummer.:<br/>
                         <strong>+43 (0)512 39 08 08</strong>
                     </p>
-                    <p>Email:
+                    <p>Email:<br/>
                         <strong><a href="mailto:office@installation-kircher.at">office@installation-kircher.at</a></strong>
                     </p>
-                    <p>Adresse:
+                    <p>Adresse:<br/>
                         <strong>Leipziger Platz 2 <br>6020 Innsbruck</strong>
                     </p>                    
-                    <p>Öffnungszeiten:
-                        <strong>Mo-Do: 07:30 - 12:00, 13:00-17:00 <br />Fr: 07:30 - 12:00</strong>            
+                    <p>Öffnungszeiten:<br/>
+                        <strong>Mo-Do: 07:30 - 12:00, 13:00 - 17:00 <br />Fr: 07:30 - 12:00</strong>            
                     </p>
 		                      
                 </div>
@@ -128,7 +135,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p><a target="_blank" href="http://www.installateure.at" title="1a Installateur"><img title="1a Installateur" alt="1a Installateur" src="img/1a_logo.jpg"></img></a> &copy; Kircher Ernst GmbH | <a href="contakt.html">Kontakt</a> | <a href="https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=47eb4bff-3da0-441b-b89d-6477c2e3ad57" title="Impressum - externer Link zur WKO" target="_blank" >Impressum</a></p>                    
+                    <p><a target="_blank" href="http://www.installateure.at" title="1a Installateur"><img title="1a Installateur" alt="1a Installateur" src="img/1a_logo.jpg"></img></a> &copy; Kircher Ernst GmbH | <a href="kontakt.html">Kontakt</a> | <a href="https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=47eb4bff-3da0-441b-b89d-6477c2e3ad57" title="Impressum - externer Link zur WKO" target="_blank" >Impressum</a></p>                    
                 </div>
             </div>
         </div>

@@ -215,3 +215,8 @@ footer p {
 .partner a {
     font-weight: bold;
 }
+
+.col-partner p {
+    border-top: 1px solid #999999;    
+}
+
